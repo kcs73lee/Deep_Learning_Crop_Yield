@@ -1,5 +1,4 @@
-# Deep_Learning_Crop_Yield
-Predicting and Estimating Crop Yields with Deep Learning
+# Predicting and Estimating Crop Yields with Deep Learning
 
 The application of deep learning techniques to train models for forecasting future outcomes are powerful and practical tools. Agriculture, a pivotal component of the global economy, necessitates a comprehensive understanding of worldwide crop yield as the human population continues to grow. This knowledge is crucial for tackling food security issues and mitigating the effects of climate change.
 
